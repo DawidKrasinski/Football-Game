@@ -34,7 +34,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="flex gap-16 mt-8">
+    <div className="flex gap-16 mt-8 select-none">
       <div>
         <h1>Football game</h1>
         <p>
